@@ -1,0 +1,2 @@
+Hi tech users my name is @Koustav De
+Tripmazing is a travel-based web application aimed at providing users with an intuitive and interactive interface for planning their journeys. My primary contribution to this project was the implementation of its core functionalities using JavaScript, without relying on frameworks like React or Angular. This approach challenged me to utilize raw JavaScript to manage DOM manipulation, handle events, and integrate APIs effectively.
